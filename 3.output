@@ -1,0 +1,162 @@
+Exercise 3 
+
+Creating a New Aircraft Object: 0
+An Aircraft Object Has Just Been Initalized: 0
+Initial X-Coordinate: 0
+Initial Y-Coordinate: 0
+Creating a New Aircraft Object: 1
+An Aircraft Object Has Just Been Initalized: 1
+Initial X-Coordinate: 0
+Initial Y-Coordinate: 0
+Creating a New Aircraft Object: 2
+An Aircraft Object Has Just Been Initalized: 2
+Initial X-Coordinate: 0
+Initial Y-Coordinate: 0
+Creating a New Aircraft Object: 3
+An Aircraft Object Has Just Been Initalized: 3
+Initial X-Coordinate: 0
+Initial Y-Coordinate: 0
+Creating a New Aircraft Object: 4
+An Aircraft Object Has Just Been Initalized: 4
+Initial X-Coordinate: 0
+Initial Y-Coordinate: 0
+Aircraft position 0 has moved up
+Moved up
+Aircraft position 0 has moved up
+Moved up
+Aircraft position 0 has moved up
+Moved up
+Aircraft position 0 has moved to the right
+Moved to the right
+Aircraft position 1 has moved up
+Moved up
+Aircraft position 1 has moved to the left
+Moved to the left
+Aircraft position 1 has moved down
+Moved down
+Aircraft position 2 has moved to the right
+Moved to the right
+Aircraft position 2 has moved down
+Moved down
+Aircraft position 2 has moved down
+Moved down
+Aircraft position 2 has moved to the left
+Moved to the left
+Aircraft position 2 has moved to the left
+Moved to the left
+Aircraft position 3 has moved to the right
+Moved to the right
+Aircraft position 3 has moved down
+Moved down
+Aircraft position 3 has moved to the right
+Moved to the right
+Aircraft position 3 has moved down
+Moved down
+Aircraft position 3 has moved down
+Moved down
+Aircraft position 4 has moved to the right
+Moved to the right
+Aircraft position 4 has moved down
+Moved down
+Aircraft position 4 has moved to the left
+Moved to the left
+Aircraft position 4 has moved Rto the right
+Moved to the right
+Aircraft position 4 has moved to the right
+Moved to the right
+Aircraft position 4 has moved to the right
+Moved to the right
+Aircraft position 4 has moved down
+Moved down
+Aircraft position 4 has moved up
+Moved up
+Aircraft position 4 has moved up
+Moved up
+
+Aircraft [ 0 ]
+Final X-Coordinate--> 1
+Final Y-Coordinat--> 3
+
+Aircraft [ 1 ]
+Final X-Coordinate--> -1
+Final Y-Coordinat--> 0
+
+Aircraft [ 2 ]
+Final X-Coordinate--> -1
+Final Y-Coordinat--> -2
+
+Aircraft [ 3 ]
+Final X-Coordinate--> 2
+Final Y-Coordinat--> -3
+
+Aircraft [ 4 ]
+Final X-Coordinate--> 3
+Final Y-Coordinat--> 0
+Exercise 3 
+
+Creating a New Aircraft Object: 0
+An Aircraft Object Has been Initalized: 0
+Initial X-Coordinate--> 0
+Initial Y-Coordinat--> 0
+Creating a New Aircraft Object: 1
+An Aircraft Object Has been Initalized: 1
+Initial X-Coordinate--> 0
+Initial Y-Coordinat--> 0
+Creating a New Aircraft Object: 2
+An Aircraft Object Has been Initalized: 2
+Initial X-Coordinate--> 0
+Initial Y-Coordinat--> 0
+Creating a New Aircraft Object: 3
+An Aircraft Object Has been Initalized: 3
+Initial X-Coordinate--> 0
+Initial Y-Coordinat--> 0
+Creating a New Aircraft Object: 4
+An Aircraft Object Has been Initalized: 4
+Initial X-Coordinate--> 0
+Initial Y-Coordinat--> 0
+Aircraft position 0 has moved up
+Aircraft position 0 has moved up
+Aircraft position 0 has moved up
+Aircraft position 0 has moved to the right
+Aircraft position 1 has moved up
+Aircraft position 1 has moved to the left
+Aircraft position 1 has moved down
+Aircraft position 2 has moved to the right
+Aircraft position 2 has moved down
+Aircraft position 2 has moved down
+Aircraft position 2 has moved to the left
+Aircraft position 2 has moved to the left
+Aircraft position 3 has moved to the right
+Aircraft position 3 has moved down
+Aircraft position 3 has moved to the right
+Aircraft position 3 has moved down
+Aircraft position 3 has moved down
+Aircraft position 4 has moved to the right
+Aircraft position 4 has moved down
+Aircraft position 4 has moved to the left
+Aircraft position 4 has moved Rto the right
+Aircraft position 4 has moved to the right
+Aircraft position 4 has moved to the right
+Aircraft position 4 has moved down
+Aircraft position 4 has moved up
+Aircraft position 4 has moved up
+
+Aircraft [ 0 ]
+Final X-Coordinate--> 1
+Final Y-Coordinat--> 3
+
+Aircraft [ 1 ]
+Final X-Coordinate--> -1
+Final Y-Coordinat--> 0
+
+Aircraft [ 2 ]
+Final X-Coordinate--> -1
+Final Y-Coordinat--> -2
+
+Aircraft [ 3 ]
+Final X-Coordinate--> 2
+Final Y-Coordinat--> -3
+
+Aircraft [ 4 ]
+Final X-Coordinate--> 3
+Final Y-Coordinat--> 0
