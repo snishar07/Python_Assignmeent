@@ -66,11 +66,11 @@ if __name__=='__main__':
 
     instances=["instance1", "instance2", "instance3", "instance4", "instance5"]
     for i in range(len(instances)):
-        if i==0: instances[i] = Boeing_747(5,8,51,60)
-        if i==1: instances[i] = Boeing_747(10,15,59,48)
-        if i==2: instances[i] = Boeing_747(3,12,57,49)
-        if i==3: instances[i] = Boeing_747(11,15,67,60)
-        if i==4: instances[i] = Boeing_747(12,17,50,62)
+        if i==0: instances[i] = Boeing_747(0,10,20,30)
+        if i==1: instances[i] = Boeing_747(1,11,21,31)
+        if i==2: instances[i] = Boeing_747(2,12,22,32)
+        if i==3: instances[i] = Boeing_747(3,13,23,33)
+        if i==4: instances[i] = Boeing_747(4,14,24,44)
 
         instances[i].initial_x_y_coord()
         print("New Boeing 747 Object Has Just Been Iniitalized:", i)
