@@ -1,0 +1,40 @@
+Creating New Aircraft Object: 0
+New Aircraft Object has been Initalized: 0
+Initial X-Coordinate: 0
+Initial Y-Coordinate: 0
+Creating New Aircraft Object: 1
+New Aircraft Object has been Initalized: 1
+Initial X-Coordinate: 2
+Initial Y-Coordinate: 4
+Creating New Aircraft Object: 2
+New Aircraft Object has been Initalized: 2
+Initial X-Coordinate: 6
+Initial Y-Coordinate: 8
+Creating New Aircraft Object: 3
+New Aircraft Object has been Initalized: 3
+Initial X-Coordinate: 10
+Initial Y-Coordinate: 12
+Creating New Aircraft Object: 4
+New Aircraft Object has been Initalized: 4
+Initial X-Coordinate: 12
+Initial Y-Coordinate: 14
+
+Aircraft [ 0 ]
+Final X-Coordinate: 2
+Final Y-Coordinate: 3
+
+Aircraft [ 1 ]
+Final X-Coordinate: 4
+Final Y-Coordinate: 7
+
+Aircraft [ 2 ]
+Final X-Coordinate: 8
+Final Y-Coordinate: 11
+
+Aircraft [ 3 ]
+Final X-Coordinate: 12
+Final Y-Coordinate: 15
+
+Aircraft [ 4 ]
+Final X-Coordinate: 14
+Final Y-Coordinate: 17
